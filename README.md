@@ -1,4 +1,4 @@
-# IGNORED-esolang
+# IGNORED-python-esointerpreter
 
 This is an interpreter for the esolang named "IGNORED".
 
